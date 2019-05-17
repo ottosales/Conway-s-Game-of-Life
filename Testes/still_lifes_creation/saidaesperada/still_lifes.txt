@@ -1,0 +1,5 @@
+ - Block: 6
+ - Beehive: 5
+ - Boat: 4
+ - Loaf: 4
+ - Tub: 3

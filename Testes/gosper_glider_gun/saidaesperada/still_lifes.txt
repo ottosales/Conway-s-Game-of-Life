@@ -1,0 +1,5 @@
+ - Block: 300
+ - Beehive: 10
+ - Boat: 0
+ - Loaf: 0
+ - Tub: 0

@@ -1,0 +1,20 @@
+Geracao: 0
+N. celulas vivas: 47
+N. celulas mortas: 184
+---------------------------------
+----OOO---OOO----OOO----OOO------
+----O--O--O--O--O---O--O---------
+----OOO---OOO---O---O--O-OOO-----
+----O-----O-O---O---O--O---O-----
+----O-----O--O---OOO----OOO------
+---------------------------------
+Geracao: 1
+N. celulas vivas: 61
+N. celulas mortas: 170
+-----O-----O------O------O-------
+----OOO---OOO----OOO----OO-------
+---O---O-O---O--O-O-O--O---O-----
+---OO-O--OO-OO-OOO-OOOOO--OO-----
+---OO----OO-OO--O-O-O--O---O-----
+-----------O-----OOO----OOO------
+------------------O------O-------

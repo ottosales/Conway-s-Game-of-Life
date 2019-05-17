@@ -1,0 +1,7 @@
+A media de celulas vivas ao longo das geracoes foi 26.00.
+A maior quantidade de celulas vivas foi de 26 na geracao 0.
+A maior quantidade de celulas mortas foi de 130 na geracao 0.
+Lista de geracoes ordenada pela quantidade de celulas vivas:
+ - Geracao 0: 26 celulas
+ - Geracao 1: 26 celulas
+ - Geracao 2: 26 celulas
